@@ -1,0 +1,3 @@
+rootProject.name = 'FlockyouPayme'
+
+include ':app'
