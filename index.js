@@ -1,4 +1,3 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+// @file index.ios.js
 
-AppRegistry.registerComponent('FlockyouPayme', () => App);
+require("./lib/App.js");
